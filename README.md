@@ -36,7 +36,7 @@ I'm always open to collaborating on exciting projects, sharing knowledge, or dis
 
 📫 How to reach me: [http://www.linkedin.com/in/mrdecoder2403]
 
-⚡ Fun fact: [A fun fact about you, e.g., "I once debugged a production issue while on a rollercoaster! (Just kidding... mostly.)"]
+⚡ Fun fact: "I once debugged a production issue while on a rollercoaster! (Just kidding.... :D )
 
 
 # 💻 Tech Stack:
